@@ -1,0 +1,5 @@
+https://alura.com.br
+https://httpbin.org/status/200
+https://httpbin.org/status/404
+https://httpbin.org/status/402
+https://doetempo.vercel.app/
